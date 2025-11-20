@@ -1,4 +1,8 @@
 # Proyecto-Cliente-FTP-Concurrente
+
+IMPORTANTE!: Se modificó el archivo connectsock.c por ende vi necesario subir todos los archivos del proyecto para su correcto funcionamiento.
+
+----------------------------------------------------------------------------------------------------------------------------------------
 El objetivo del proyecto es desarrollar un cliente FTP concurrente con las siguientes especificaciones funcionales:
 
 El programa debe utilizar las funciones connectsock.c connectTCP.c errexit.c
